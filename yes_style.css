@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F8C8DC;
+    background-color: #F8F3E8;
 }
 
 .header_text {
-    font-family: 'Nunito';
+    font-family: 'Fantasy';
     font-size: 50px;
     font-weight: bold;
     color: white;
