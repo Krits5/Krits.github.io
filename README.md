@@ -1,2 +1,1 @@
-✨doyouwannagooutwithkii.com
-🥰
+doyouwannagooutwithkii.com
